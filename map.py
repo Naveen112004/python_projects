@@ -83,7 +83,6 @@
 # nested_list = [[1, 2], [3, 4], [5, 6]]
 # result = [list(map(lambda x: x + 5, sublist)) for sublist in nested_list]
 # print(result)
-
-text = "Python"
-result = list(map(ord, text))
-print(result)
+# text = "Python"
+# result = list(map(ord, text))
+# print(result)
